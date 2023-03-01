@@ -61,3 +61,11 @@ This project was thought as a way to:
 
 
 ## :pushpin: Demo video of the Automation test :clapper:
+This is the first video of the automation test execution on the Eventbook website, where all tests are checked, to see the entire flow on this website.
+
+
+https://user-images.githubusercontent.com/115346533/222078663-96d88dfb-dd4c-499a-aea4-95a4e08b3054.mp4
+
+
+
+

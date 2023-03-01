@@ -61,11 +61,18 @@ This project was thought as a way to:
 
 
 ## :pushpin: Demo video of the Automation test :clapper:
-This is the first video of the automation test execution on the Eventbook website, where all tests are checked, to see the entire flow on this website.
+This is the first demo video of the automation test execution on the Eventbook website, where all tests are checked, to see the entire flow on this website.
+
 
 
 https://user-images.githubusercontent.com/115346533/222078663-96d88dfb-dd4c-499a-aea4-95a4e08b3054.mp4
 
 
+
+This is the second demo video, where is presented a bug. When it is selected the English language, only a small part of the menu from header is changed to this language, and the other part remains in Romanian. 
+
+
+
+https://user-images.githubusercontent.com/115346533/222079465-4ee6c318-94e2-4eea-8fd1-e1c4b1d84548.mp4
 
 

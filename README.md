@@ -8,7 +8,7 @@ An automation testing project built to verify as many details and functions on t
 
 
 ## :pushpin: Inspiration and personal purpose :chart_with_upwards_trend:
-This automation project was created to learn a new automation framework, Cypress. In order to apply practically my knowledge about Cypress, I chose to write some automation tests on various functionalities on the website of the Faculty of History and Philosophy, Babeș-Bolyai University, Cluj-Napoca, Romania.
+This automation project was created in order to apply practically my knowledge about Cypress JS framework. In this respect, I developed a tests suite which verify by assertions different details and functions of the Eventbook website, for personal exercise and learning.
 
 
 

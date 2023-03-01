@@ -31,11 +31,10 @@ This automation project was created in order to apply practically my knowledge a
 ## :pushpin: Setup and installation :hammer_and_wrench:	
 1. The first time I created a remote repository on GitHub, then a local repository on my computer.
 2. In the project's local folder, I installed the **Cypress** automatic testing framework from the Command Prompt, by executing the command: "npm i cypress".
-3. After the final installation of Cypress, I had to open it by command line "npx cypress open" in Command Prompt and configure the framework for this project: selecting the type of testing for this project (End-to-End Testing), selecting the Google Chrome browser to run the website, create and setting the specific folder of the JavaScript test code (in this case: **"cypress\e2e\History_Tests"**).
-4. After I have finished configuring Cypress for this project, I open a JS code file in the **"cypress\e2e\History_Tests"** folder and add the unitary organized test suite with proper names for all the tests in it, following the documentation of Cypress framework.
-5. The automated test suite is executed by running in the Cypress interface, with a generic report in the left and the visual execution of the tests in the right part. During execution, it is made a screenshot with the result of cross-site scripting verification on search bar website. 
+3. After the final installation of Cypress, I had to open it by command line "npx cypress open" in Command Prompt and configure the framework for this project: selecting the type of testing for this project (End-to-End Testing), selecting the Google Chrome browser to run the website, create and setting the specific folder of the JavaScript test code (in this case: **"cypress\e2e\Test_File_Eventbook.cy"**).
+4. After I have finished configuring Cypress for this project, I open a JS code file in the **"cypress\e2e\"** folder and add the unitary organized tests suite with proper names for all the tests in it, following the documentation of Cypress framework.
+5. The automated test suite is executed by running in the Cypress interface, with a generic report in the left and the visual execution of the tests in the right part. During tests execution, there is a bug which is presented separately below. When it is selected the English language, only a small part of the menu from header is changed to this language, and the other part remains in Romannian. 
 
-:arrow_right_hook: Here on GitHub, the JS file with Cypress tests is located in the folder: **cypress\e2e\History_Tests**. The screenshot is located in **cypress\screenshots**.
 
 
 

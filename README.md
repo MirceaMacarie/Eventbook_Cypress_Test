@@ -33,7 +33,7 @@ This automation project was created in order to apply practically my knowledge a
 2. In the project's local folder, I installed the **Cypress** automatic testing framework from the Command Prompt, by executing the command: "npm i cypress".
 3. After the final installation of Cypress, I had to open it by command line "npx cypress open" in Command Prompt and configure the framework for this project: selecting the type of testing for this project (End-to-End Testing), selecting the Google Chrome browser to run the website, create and setting the specific folder of the JavaScript test code (in this case: **"cypress\e2e\Test_File_Eventbook.cy"**).
 4. After I have finished configuring Cypress for this project, I open a JS code file in the **"cypress\e2e\"** folder and add the unitary organized tests suite with proper names for all the tests in it, following the documentation of Cypress framework.
-5. The automated test suite is executed by running in the Cypress interface, with a generic report in the left and the visual execution of the tests in the right part. During tests execution, there is a bug which is presented separately below. When it is selected the English language, only a small part of the menu from header is changed to this language, and the other part remains in Romannian. 
+5. The automated test suite is executed by running in the Cypress interface, with a generic report in the left and the visual execution of the tests in the right part. During tests execution, there is a bug which is presented separately below. When it is selected the English language, only a small part of the menu from header is changed to this language, and the other part remains in Romanian. 
 
 
 
@@ -50,7 +50,8 @@ As support, I used **the website https://eventbook.ro/** for these automation te
 
 ## :pushpin: Testing objectives :microscope:
 This project was thought as a way to: 
-+ if **it respects a Positive Flow for a student who wants to search/ verify specific things on website**, 
++ if **it respects a Positive Flow for customers who search information about cultural events and want to buy tickets for these**,
++ to create an **End-to-End testing scenario**, simulating **a real context** for a user who access the website,
 + **to check certain static details (buttons, titles, text, etc.)**,
 + check if **certain functions of the site can be automated** in a testing process.
 
